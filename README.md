@@ -1,4 +1,4 @@
-#Genealogy tree
+# Genealogy tree
 
 A genealogy tree is a tool to visualize genetic and/or relational connections between individuals. 
 
@@ -18,3 +18,4 @@ Hints:
 
 You have to publish a screenshot of the graphical binary tree and the source code of your project on any of these platforms GitHub, GitLab or Bitbucket, and send us the link.
 
+![Alt text](./public/screenshot.png?raw=true "Screenshot")
